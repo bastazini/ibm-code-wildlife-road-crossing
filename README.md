@@ -1,5 +1,6 @@
 # Wildlife Road Crossings: A Mechanistic Trait- and Landscape-Based Model
 Bibiana Terra Dasoler, Fernanda Zimmermann Teixeira, Andreas Kindel, Fernando Ascensão, and Vinicius Bastazini
+ Wildlife road crossings: A mechanistic trait- and landscape-based model. Ecological Modelling. 516: 111579.DOI:[10.1016/j.ecolmodel.2026.111579](https://doi.org/10.1016/j.ecolmodel.2026.111579)
 
 * scripts folder:
     - simulations: to run and save model simulations on NetLogo
